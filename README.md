@@ -1,6 +1,6 @@
-In this project, you will create a simple assembler program for the MIPS assembly language by using Java/Python programming language. Your program receives the source code filename (for example mycode.asm), translates each instruction into the machine code(HEX or Binary), and stores them with their associated address in an output file with the same name as the input file but with .obj extension.
+In this project,i created a simple assembler program for the MIPS assembly language by using Python programming language. Program receives the source code filename (for example mycode.asm), translates each instruction into the machine code(HEX), and stores them with their associated address in an output file with the same name as the input file but with .obj extension.
 
-For Simplicity, only consider the following MIPS instructions:
+Works with following instructions
 
 ADD, SUB, AND, OR, SLL, SRL, SLLV, SRLV (R-type)
 
